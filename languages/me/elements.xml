@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<elements>
+    <language>me</language>
+    <title>Simpladent Montenegro</title>
+    <contact>
+        <phone>+382 69 615 399</phone>
+        <hours>Možete nas dobiti između 9:00 i 17:00</hours>
+        <callMe>Ostavite poruku da Vas pozovemo!</callMe>
+        <name>Vaše prezime </name>
+        <area_code>Area Code</area_code>
+		<number>Broj telefona: </number>
+        <send>Poslati</send>
+        <mail>Email:</mail>
+    </contact>
+    <appointments>
+        <title>Termini</title>
+        <name>Vaše prezime</name>
+        <phone>Broj telefona:</phone>
+        <mail>Email:</mail>
+        <comment>Primjedbe:</comment>
+        <send>Zahtjevati  termin</send>
+        <getBack>Mi ćemo Vam se javiti!</getBack>
+        <captcha>Captcha je pogrešan!</captcha>
+    </appointments>
+    <footer>
+        <mail>
+            <text>Email:</text>
+            <adress>info@simpladent.me</adress>
+        </mail>
+        <partners>
+            <text>Partneri:</text>
+            <partner>
+                <name>www.implant.com</name>
+                <link>www.implant.com</link>
+            </partner>
+            <partner>
+                <name>www.implantfoundation.org</name>
+                <link>www.implantfoundation.org</link>
+            </partner>
+            <partner>
+                <name>www.sibasi.org</name>
+                <link>www.sibasi.org</link>
+            </partner>
+        </partners>
+        <facebook>
+            <text>Simpladent</text>
+            <link>https://www.facebook.com/simpladent.de</link>
+        </facebook>
+    </footer>
+	<slang>
+		<address>Adresa</address>
+		<team>Naš tim</team>
+		<doctor>Doktor</doctor>
+		<assistant>Asistenti</assistant>
+		<staff>Osoblje</staff>
+		<clinic>Naša klinika</clinic>
+		<labor>Naša laboratorija</labor>
+		<accommodations>Preporučeni smještaji</accommodations>
+		<phone>Telefon</phone>
+		<email>Email</email>
+		<homepage>Homepage</homepage>
+		<manager>Šef biroa</manager>
+	</slang>
+</elements>

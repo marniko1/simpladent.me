@@ -1,0 +1,110 @@
+#login_block {
+    width: 380px;
+    padding: 2px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -162px;
+    margin-top: -76px;
+}
+
+#adminContent {
+    margin-top: 70px;
+}
+
+.alignR {
+    text-align: right;
+}
+
+.pagination ul {
+    vertical-align: middle;
+    margin: 0 5px 0 5px;
+}
+
+.input-xlarge {
+    width: 400px;
+}
+
+.wide-form {
+    position:fixed;
+    top:50px;
+    width:100%;
+}
+
+#main-menu-right .langLink {
+    width: 53px;
+    height: 28px;
+    padding: 0 !important;
+    margin: 6px 8px 0 0;
+    box-shadow: none;
+    text-shadow: none;
+    border:0;    
+}
+
+.langLink.fr {
+    background: url(../img/fr.png) 1px 0 no-repeat;
+}
+.langLink.fr:hover {
+    background: url(../img/fr_hover.png) !important;
+}
+.langLink.en {
+    background: url(../img/en.png) 1px 0 no-repeat;
+
+}
+.langLink.en:hover {
+    background: url(../img/en_hover.png) !important;
+}
+
+.ui-autocomplete {
+    list-style: none;
+    background-color: #ffffff;
+    width: 22%;
+    padding-top: 5px;
+}
+
+.ui-autocomplete li a {
+    color: #000000;
+    padding-left: 10px;    
+    cursor: pointer;
+}
+
+.ui-helper-hidden-accessible {
+    display:none;
+}
+
+.navbar-inner .container {
+    position:relative;
+    
+}
+.navbar-inner .container #messageBlock {
+    position:absolute;
+    right: 0;
+    top: 50px;
+    
+}
+
+.modifyLinks {
+    margin-right: 20px;
+    float: right;
+}
+
+.column { padding-bottom: 100px; margin-top: 20px;}
+.portlet { margin: 0 1em 1em 0; }
+.portlet-header { margin: 0.3em; padding-bottom: 4px; padding-left: 0.2em; }
+.portlet-header .ui-icon { float: right; }
+.portlet-content { padding: 0.4em; display:none;}
+.ui-sortable-placeholder { border: 1px dotted black; visibility: visible !important; height: 50px !important; }
+.ui-sortable-placeholder * { visibility: hidden; }
+.ui-icon{ cursor: pointer;}
+
+
+.sortCategory { list-style-type: none; margin: 0; padding: 0;  }
+.sortCategory li { margin: 0 3px 3px 3px; padding: 0.2em; padding-left: 1.5em; height: 18px; }
+.sortCategoryImage {margin-top: -5px;}
+
+.sortItem { list-style-type: none; margin: 0; padding: 0;  }
+.sortItem li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+.adminImage {position:absolute; top:0; left:0}
+
+.required {color:red;}

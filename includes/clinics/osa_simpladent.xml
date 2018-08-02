@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<elements>
+	<name>Dent32</name>
+	<address>
+		<name>
+			<de>Sipic Dr. Olga</de>
+			<en>Sipic Dr. Olga</en>
+			<ru>Sipic Dr. Olga</ru>
+			<rs>Sipic Dr. Olga</rs>
+		</name>
+		<street>
+			<de>Desanke Maksimovic br. 4/2</de>
+			<en>Desanke Maksimovic br. 4/2</en>
+			<ru>Desanke Maksimovic br. 4/2</ru>
+			<rs>Desanke Maksimovic br. 4/2</rs>
+		</street>
+		<town>
+			<de>Belgrad</de>
+			<en>Belgrade</en>
+			<ru>Белград</ru>
+			<rs>Beograd</rs>
+		</town>
+		<land>
+			<de>Serbien</de>
+			<en>Serbia</en>
+			<ru>Сербия</ru>
+			<rs>Srbija</rs>
+		</land>
+		
+		<email>info@dent-32.com</email>
+		<phone>+381 65 511 11 61</phone>
+		<phone>+381 11 408 56 92</phone>
+		<homepage>http://dent-32.com/</homepage>
+	</address>
+	<einleitung>
+		<de>Unsere Klinik ist autorisiert für die Arbeit in Sofortbelastung mit dem Strategic Implant (R). Unsere Ärzte, die Zahntechniker und alle weiteren Mitarbeiter sind gut ausgebildet für diese Methode. Im Regelfall behandeln wir Sie innerhalb von 2-3 Tagen komplett. Express-Behandlung (Extraktion, Implantation und Fertigstellung der Arbeit) an einem Tag ist nach spezieller Verabredung möglich. Die zügige Durchführung der Behandlung ist nur einer der vielen Vorteile, die unsere Behandlung für Sie bietet.</de>
+		<en>We are an authorized clinic for the work in immediate load treatment protocols with the Strategic Implant (R). Our doctors, dental technicians and the staff are well trained for work with this metodology. Typically we treat you within  2 to 3 days. Express services (treatment in one day) are available as per special agreement. The fast treatment is only one of the advantages which we have to offer.</en>
+		<rs>Mi smo ovlašćena stomatoločka ordinacija za rad u protokolima imedijantnog opterećenja sa Strategic implantatima. Naši doktori, zubni tehničari i osoblje su prošli detaljne treninge za rad sa ovom metodologijom. Tipično, tretmani kod nas traju 2 do 3 dana. Ekspresna usluga (tretman u toku samo jednog dana) je takođe moguća, po prethodnom  dogovoru.</rs>
+		<ru>We are an authorized clinic for the work in immediate load treatment protocols with the Strategic Implant (R). Our doctors, dental technicians and the staff are well trained for work with this metodology. Typically we treat you within  2 to 3 days. Express services (treatment in one day) are available as per special agreement. The fast treatment is only one of the advantages which we have to offer.</ru>
+	</einleitung>
+	<team>
+		<doctors>
+			<doc>
+				<name>Sipic Dr. Olga</name>
+				<image>./img/clinics/dent32/za1.jpg</image>
+			</doc>
+		</doctors>
+		<office_manager>
+			<manager>
+				<name>
+					<de>Dr.Tamara Jovanovic</de>
+					<en>Dr.Tamara Jovanovic</en>
+					<ru>Dr.Tamara Jovanovic</ru>
+					<rs>Dr.Tamara Jovanovic</rs>
+				</name>
+				<image>./img/clinics/dent32/office_manager.jpg</image>
+			</manager>
+		</office_manager>
+		<assistants>
+			<assist>
+				<name></name>
+				<image></image>
+			</assist>
+			<assist>
+				<name></name>
+				<image></image>
+			</assist>
+		</assistants>
+		<technicians>
+			<tech>
+				<name></name>
+				<image></image>
+			</tech>
+		</technicians>
+		<staff>
+			<staff>
+				<name></name>
+				<image></image>
+			</staff>
+			<staff>
+				<name></name>
+				<image></image>
+			</staff>
+		</staff>
+	</team>
+	<office>
+		<clinic>
+			<name>
+				<de>Reception</de>
+				<en>Reception</en>
+				<ru>Reception</ru>
+				<rs>Reception</rs>
+			</name>
+			<image>./img/clinics/dent32/reception_01.JPG</image>
+		</clinic>
+		<clinic>
+			<name>
+				<de>Waiting Room</de>
+				<en>Waiting Room</en>
+				<ru>Waiting Room</ru>
+				<rs>Waiting Room</rs>
+			</name>
+			<image>./img/clinics/dent32/waiting_room_01.JPG</image>
+		</clinic>
+		<clinic>
+			<name>			
+				<de>Treatment Room</de>
+				<en>Treatment Room</en>
+				<ru>Treatment Room</ru>
+				<rs>Treatment Room</rs>
+			</name>
+			<image>./img/clinics/dent32/treatment_01.JPG</image>	
+		</clinic>		
+		<labor>
+			<img>
+				<title></title>
+				<src></src>
+			</img>
+		</labor>
+	</office>
+	<accommodation>
+		<acc>
+			<name>Astoria Design Hotel</name>
+			<website>http:///www.astoria.rs</website>
+			<image></image>
+		</acc>
+		<acc>
+			<name>Mr.President Design Hotel</name>
+			<website>http://www.hotelmrpresident.com</website>
+			<image></image>
+		</acc>
+	</accommodation>
+</elements>

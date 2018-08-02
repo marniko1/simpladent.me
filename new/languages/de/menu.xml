@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<menu>
+    <menu>
+        <item submenu="true">
+            <text>Über uns</text>
+            <link>./?page=about</link>
+            <submenu>
+                <item>
+                    <text>Geschichte</text>
+                    <link>#aboutSection_1</link>
+                </item>
+                <item>
+                    <text>Unsere Behandlungstechnik</text>
+                    <link>#aboutSection_2</link>
+                </item>
+                <item>
+                    <text>Spezialisten</text>
+                    <link>#aboutSection_3</link>
+                </item>
+                <item>
+                    <text>Zertifikate</text>
+                    <link>#aboutSection_4</link>
+                </item>
+                <item>
+                    <text>Review</text>
+                    <link>#aboutSection_5</link>
+                </item>
+            </submenu>
+        </item>
+        <item submenu="true">
+            <text>Methode</text>
+            <link>./?page=methology</link>
+            <submenu>
+                <item>
+                    <text>Implantologie</text>
+                    <link>#methSection_1</link>
+                </item>
+                <item>
+                    <text>Sorten von Implantaten</text>
+                    <link>#methSection_2</link>
+                </item>
+                <item>
+                    <text>Behandlungsphasen</text>
+                    <link>#methSection_3</link>
+                </item>
+                <item>
+                    <text>Vergleich der Methoden</text>
+                    <link>#methSection_4</link>
+                </item>
+                <item>
+                    <text>Hinweise</text>
+                    <link>#methSection_5</link>
+                </item>
+                <item>
+                    <text>Vorher - Nachher</text>
+                    <link>#methSection_6</link>
+                </item>
+                <item>
+                    <text>Mythen</text>
+                    <link>#methSection_7</link>
+                </item>
+                <item>
+                    <text>Garantie</text>
+                    <link>#methSection_8</link>
+                </item>
+            </submenu>
+        </item>
+        <item>
+            <text>Video</text>
+            <link>./?page=video</link>
+        </item>
+        <item>
+            <text>Preis</text>
+            <link>./?page=price</link>
+        </item>
+        <item>
+            <text>Kontakt</text>
+            <link>./?page=contact</link>
+        </item>
+    </menu>
+
+</menu>

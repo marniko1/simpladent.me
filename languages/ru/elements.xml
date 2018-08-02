@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<elements>
+    <language>ru</language>
+    <title>Simpladent</title>
+    <contact>
+        <phone>+382 69 615 399</phone>
+        <hours></hours>
+        <h>Часы работы 9:00-19:00</h>
+        <callMe>Заказать звонок</callMe>
+        <name>Ваше Имя:</name>
+        <area_code>Area Code</area_code>
+		<number>Телефон:</number>
+        <send>Заказать</send>
+        <mail>E-mail:</mail>
+    </contact>
+    <appointments>
+        <title>Запись на прием</title>
+        <name>имя:</name>
+        <phone>Телефон:</phone>
+        <mail>E-mail:</mail>
+        <comment>комментарий:</comment>
+        <send>Записаться</send>
+        <getBack>We will get back to you soon</getBack>
+        <captcha>Captcha incorrect!</captcha>
+    </appointments>
+    <footer>
+        <mail>
+            <text>Почта</text>
+            <adress>info@simpladent.me</adress>
+        </mail>
+        <partners>
+            <text>Партнеры:</text>
+            <partner>
+                <name>www.implant.com</name>
+                <link>www.implant.com</link>
+            </partner>
+            <partner>
+                <name>www.implantfoundation.org</name>
+                <link>www.implantfoundation.org</link>
+            </partner>
+            <partner>
+                <name>www.sibasi.org</name>
+                <link>www.sibasi.org</link>
+            </partner>
+        </partners>
+        <facebook>
+            <text>Official Simpladent</text>
+            <link>https://www.facebook.com/simpladent.de</link>
+        </facebook>
+    </footer>
+	<slang>
+		<address>Address</address>
+		<team>Our Team</team>
+		<doctor>Doctor</doctor>
+		<assistant>Assistant</assistant>
+		<staff>Staff</staff>
+		<clinic>Our Clinic</clinic>
+		<labor>Our Labor</labor>
+		<accommodations>Recommended Accommodation</accommodations>
+		<phone>Phone</phone>
+		<email>E-Mail</email>
+		<homepage>Homepage</homepage>
+		<manager>Office Manager</manager>
+	</slang>
+</elements>

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ArialBlack';
+    src: url('../fonts/ariblk.eot');
+    src: url('../fonts/ariblk.eot') format('embedded-opentype'),
+         url('../fonts/ariblk.woff') format('woff'),
+         url('../fonts/ariblk.ttf') format('truetype'),
+         url('../fonts/ariblk.svg#ArialBlack') format('svg');
+}

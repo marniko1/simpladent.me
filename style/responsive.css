@@ -1,0 +1,272 @@
+@media (max-width: 399.98px) {
+	.reviews_list .review .review_text {
+	  margin-left: 30%;
+	}
+	#methSection_3 .img {
+	  width: 100%;
+	}
+	#methSection_4 .compare_table .t_body table td .step .num {
+		display: none;
+	}
+	#footer .contacts_col li {
+	  padding-left: 10%;
+	}
+	#footer .contacts_col li:before {
+	  left: 5%;
+	}
+}
+@media (min-width: 500px) {
+	#clinicSection_1 .author {
+	  width: 30%;
+	  float: left;
+	}
+	#clinicSection_1 .author .img {
+	  width: 100%;
+	}
+	#clinicSection_1 .author .img img {
+		float: none;
+		width: 100%;
+	}
+	#clinicSection_1 .author .article blockquote,
+	#clinicSection_1 .info .article blockquote {
+	  	text-align: left;
+	  	margin-left: -50px;
+	  	padding-left: 50px;
+	}
+	#clinicSection_1 .main_block {
+		width: 70%;
+	}
+}
+@media (min-width: 600px) {
+	#aboutSection_4 .certificates {
+	  padding-left: 15%;
+	}
+	#methSection_2 .slider li {
+	  min-height: 200px;
+	  margin-bottom: 50px;
+	}
+	#methSection_2 .slider li .img {
+	  margin-bottom: 22px;
+	  width: 50%;
+	  float: left;
+	}
+	#methSection_2 .slider li .text {
+	  padding: 12px 0;
+	  width: 50%;
+	  float: right;
+	  padding: 3% 4%;
+	}
+	#methSection_8 .img {
+	  width: initial;
+	}
+	#costSection_2 .cost_variants ol li .img {
+	  float: left;
+	  width: 30%;
+	  margin-left: 65px;
+	}
+	#costSection_2 .cost_variants ol li .img img {
+		width: 100%;
+	}
+	#costSection_2 .cost_variants ol li .text {
+	  float: right;
+	  width: 50%;
+	}
+	#costSection_2 .cost_variants ol li .text .example {
+	  width: 100%;
+	}
+	.person_master_div {
+		float:left;
+		width: 33.33%;
+	}
+}
+@media (max-width: 767.98px) {
+	.container {
+		padding-left: 0;
+		padding-right: 0;
+		max-width: 100%;
+	}
+}
+@media (min-width: 768px) {
+	body .back_to_top:hover {
+	  background-color: #343434;
+	}
+	#wrapper .in {
+	  width: 70%;
+	  margin: 0 auto;
+	}
+	#main_menu {
+		display: block;
+	}
+	#main_menu .subMenu {
+	  left: -45%;
+	  right: -5%;
+	}
+	.lr_menu {
+		display: none;
+	}
+	#header .header_in .logo {
+	  padding-bottom: 0;
+	}
+	#header .header_in {
+	  padding-top: 30px;
+	  margin: initial;
+	}
+	#aboutSection_1 .author {
+		display: block;
+	}
+	#aboutSection_1 .info {
+	  display: block;
+	  margin-left: 10%;
+	}
+	#wrapper .main_block {
+	  width: 60%;
+	}
+	#questionsSection_1 .main_block {
+	  width: 100%;
+	}
+	#aboutSection_2 .img {
+		display: block;
+  		margin: 0 1% 1% 0;
+	}
+	#aboutSection_2 .article p {
+	  overflow: visible;
+	}
+	#aboutSection_4 .certificates {
+	  float: left;
+	  width: 50%;
+	  padding-left: 0;
+	}
+	#methSection_1 .main_block {
+		width: 65%;
+	}
+	.reviews_list .review .review_text {
+	  padding-left: 75px;
+	}
+	.article blockquote:before {
+	  display: block;
+	}
+	#methSection_1 .note {
+	  width: 60%;
+	}
+	#methSection_1 .benefits .article {
+	  padding: 0 36px 30px 30%;
+	}
+	.slider li {
+	  float: left;
+	}
+	#methSection_2 .slider li {
+	  width: 33.33%;
+	}
+	#methSection_2 .slider li .img {
+		float: none;
+		width: 100%;
+	}
+	#methSection_2 .slider li .text {
+		float: none;
+		width: 100%;
+	}
+	#methSection_5 .columns .col {
+	  width: 43%;
+	}
+	#methSection_5 .columns .col + .col {
+	  margin-left: 14%;
+	}
+	#video_link a {
+		width:45%;
+	}
+	#video_link .video_link_list {
+		border:1px solid #AAAAAA;	
+	}
+	#clinicSection_1 .author {
+	  width: 30%;
+	  float: left;
+	  margin-left: 10%;
+	  margin-bottom: 20px;
+	}
+}
+@media (min-width: 992px) {
+	#wrapper .in {
+	  width: 57%;
+	}
+	#main_menu .subMenu {
+	  left: -62%;
+	  right: -27%;
+	}
+	#methSection_3 .steps li {
+	  float: left;
+	  list-style: none;
+	  position: relative;
+	  padding-top: 88px;
+	  padding-left: 0;
+	  width: 15%;
+	  font-size: 11px;
+	  color: #000000;
+	  line-height: 16px;
+	}
+	#methSection_3 .steps li:before {
+	  height: 60px;
+	  width: 60px;
+	  border: 5px solid #e4312f;
+	  border-radius: 50%;
+	  text-align: center;
+	  line-height: 50px;
+	  font-size: 26px;
+	  color: #e4312f;
+	  font-weight: bold;
+	  counter-increment: list;
+	  content: counter(list);
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	}
+	.slider li {
+	  list-style: none;
+	  float: left;
+	}
+	/*horizontal*/
+	#methSection_3 .steps li + li {
+	  margin-left: 5%;
+	  margin-top: 0;
+	}
+	#methSection_3 .steps li + li:after {
+	  width: 50%;
+	  height: 1px;
+	  background: #d4d4d4;
+	  position: absolute;
+	  left: -58%;
+	  top: 30px;
+	  content: '';
+	}
+	#tools {
+		display: block;
+	}
+	#video_link a {
+		width: 49%;
+	}
+}
+@media (min-width: 1100px) {
+	.video_link {
+		padding: 0 5%;
+	}
+	.video_link_list {
+		width:304px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+@media (min-width: 1200px) {
+	#main_menu > nav > ul > li {
+	  margin-left: 30px;
+	}
+	#header .header_in .logo {
+	  margin-left: 13.5%;
+	  padding-left: initial;
+	}
+	#main_menu .subMenu {
+	  left: -82%;
+	  right: -4%;
+	}
+	.inSubMenu {
+	  margin-left: 40%;
+	}
+}

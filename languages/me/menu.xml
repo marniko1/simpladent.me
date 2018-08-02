@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<menu>
+    <language>me</language>
+    <menu_bar>meni</menu_bar>
+    <menu>
+        <item submenu="true">
+            <text>O nama</text>
+            <link>./?page=about</link>
+            <submenu>
+                <item>
+                    <text>Istorija</text>
+                    <link>#aboutSection_1</link>
+                </item>
+                <item>
+                    <text>Metodologija</text>
+                    <link>#aboutSection_2</link>
+                </item>
+                <item>
+                    <text>Sertifikat</text>
+                    <link>#aboutSection_4</link>
+                </item>
+                <item>
+                    <text>Izvještaji pacijenata</text>
+                    <link>#aboutSection_5</link>
+                </item>
+            </submenu>
+        </item>
+        <item submenu="true">
+            <text>Metoda</text>
+            <link>./?page=methology</link>
+            <submenu>
+                <item>
+                    <text>Implantologija</text>
+                    <link>#methSection_1</link>
+                </item>
+                <item>
+                    <text>Vrsta implantata</text>
+                    <link>#methSection_2</link>
+                </item>
+                <item>
+                    <text>Faze tretmana</text>
+                    <link>#methSection_3</link>
+                </item>
+                <item>
+                    <text>Upoređivanje metoda</text>
+                    <link>#methSection_4</link>
+                </item>
+                <item>
+                    <text>Ukazivanje</text>
+                    <link>#methSection_5</link>
+                </item>
+                <item>
+                    <text>Prije - poslije</text>
+                    <link>#methSection_6</link>
+                </item>
+                <!--<item>
+                    <text>Mythen</text>
+                    <link>#methSection_7</link>
+                </item>-->
+                <item>
+                    <text>Garancije</text>
+                    <link>#methSection_8</link>
+                </item>
+            </submenu>
+        </item>
+        <item>
+            <text>FAQ</text>
+            <link>./?page=question</link>
+        </item>			
+        <item>
+            <text>Video</text>
+            <link>./?page=video</link>
+        </item>
+        <item>
+            <text>Tretman</text>
+            <link>./?page=price</link>
+        </item>		
+        <item>
+            <text>Kontakt</text>
+            <link>./?page=contact</link>
+        </item>
+    </menu>
+
+</menu>

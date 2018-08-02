@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<elements>
+    <language>en</language>
+    <title>Simpladent Croatia</title>
+    <contact>
+        <phone>+385 99 683 35 93</phone>
+        <hours>RADNO VRIJEME 9:00-17:00 </hours>
+        <callMe>ZATRAŽITE POZIV</callMe>
+        <name>VAŠE IME: </name>
+        <number>BROJ TELEFONA: </number>
+        <send>VAŠ ZAHTJEV</send>
+        <mail>E MAIL:</mail>
+    </contact>
+    <appointments>
+        <title>TERMINI</title>
+        <name>VAŠE IME:</name>
+        <phone>BROJ TELEFONA:</phone>
+        <mail>E MAIL:</mail>
+        <comment>KOMENTAR</comment>
+        <send>VAS TERMIN</send>
+        <getBack>We will get back to you soon</getBack>
+    </appointments>
+    <footer>
+        <mail>
+            <text>Email:</text>
+            <adress>info@simpladent.hr</adress>
+        </mail>
+        <partners>
+            <text>Partner:</text>
+            <partner>
+                <name>www.implant.com</name>
+                <link>www.implant.com</link>
+            </partner>
+            <partner>
+                <name>www.implantfoundation.org</name>
+                <link>www.implantfoundation.org</link>
+            </partner>
+            <partner>
+                <name>www.sibasi.org</name>
+                <link>www.sibasi.org</link>
+            </partner>
+        </partners>
+        <facebook>
+            <text>Official Simpladent</text>
+            <link>http://www.facebook.com/official.simpladent</link>
+        </facebook>
+    </footer>
+</elements>

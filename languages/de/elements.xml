@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<elements>
+    <language>de</language>
+    <title>Simpladent Montenegro</title>
+    <contact>
+        <phone>+382 69 615 399</phone>
+        <hours>Erreichbar zwischen 9:00 und 17:00</hours>
+        <callMe>Bestellen Sie einen Rückruf</callMe>
+        <name>Ihr Name: </name>
+        <area_code>Vorwahl</area_code>
+		<number>Telefonnummer: </number>
+        <send>Abschicken</send>
+        <mail>E-mail:</mail>
+    </contact>
+    <appointments>
+        <title>Termine</title>
+        <name>Ihr Name:</name>
+        <phone>Telefonnummer:</phone>
+        <mail>E-mail:</mail>
+        <comment>Bemerkung:</comment>
+        <send>Termin anfordern</send>
+        <getBack>Wir werden uns bei Ihnen melden!</getBack>
+        <captcha>Das Captcha ist falsch!</captcha>
+    </appointments>
+    <footer>
+        <mail>
+            <text>Email:</text>
+            <adress>info@simpladent.ch</adress>
+        </mail>
+        <partners>
+            <text>Partners:</text>
+            <partner>
+                <name>www.implant.com</name>
+                <link>www.implant.com</link>
+            </partner>
+            <partner>
+                <name>www.implantfoundation.org</name>
+                <link>www.implantfoundation.org</link>
+            </partner>
+            <partner>
+                <name>www.sibasi.org</name>
+                <link>www.sibasi.org</link>
+            </partner>
+        </partners>
+        <facebook>
+            <text>Simpladent</text>
+            <link>https://www.facebook.com/simpladent.de</link>
+        </facebook>
+    </footer>
+	<slang>
+		<address>Adresse</address>
+		<team>Unser Team</team>
+		<doctor>Doktor</doctor>
+		<assistant>Assistenten</assistant>
+		<staff>Belegschaft</staff>
+		<clinic>Unsere Klinik</clinic>
+		<labor>Unser Labor</labor>
+		<accommodations>Empfohlene Unterkünfte</accommodations>
+		<phone>Telefon</phone>
+		<email>E-Mail</email>
+		<homepage>Homepage</homepage>
+		<manager>Büroleiter</manager>
+	</slang>
+</elements>

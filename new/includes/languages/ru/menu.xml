@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<menu>
+    <menu>
+        <item submenu="true">
+            <text>О нас</text>
+            <link>./?page=about</link>
+            <submenu>
+                <item>
+                    <text>История</text>
+                    <link>#aboutSection_1</link>
+                </item>
+                <item>
+                    <text>Наш подход</text>
+                    <link>#aboutSection_2</link>
+                </item>
+                <item>
+                    <text>Специалисты</text>
+                    <link>#aboutSection_3</link>
+                </item>
+                <item>
+                    <text>Сертификаты</text>
+                    <link>#aboutSection_4</link>
+                </item>
+                <item>
+                    <text>Отзывы</text>
+                    <link>#aboutSection_5</link>
+                </item>
+            </submenu>
+        </item>
+        <item submenu="true">
+            <text>Методика</text>
+            <link>./?page=methology</link>
+            <submenu>
+                <item>
+                    <text>Иплантология </text>
+                    <link>#methSection_1</link>
+                </item>
+                <item>
+                    <text>Виды имплантов</text>
+                    <link>#methSection_2</link>
+                </item>
+                <item>
+                    <text>Этапы лечения</text>
+                    <link>#methSection_3</link>
+                </item>
+                <item>
+                    <text>Сравнение методик</text>
+                    <link>#methSection_4</link>
+                </item>
+                <item>
+                    <text>Показания</text>
+                    <link>#methSection_5</link>
+                </item>
+                <item>
+                    <text>До и после</text>
+                    <link>#methSection_6</link>
+                </item>
+                <item>
+                    <text>Мифы</text>
+                    <link>#methSection_7</link>
+                </item>
+                <item>
+                    <text>Гарантия</text>
+                    <link>#methSection_8</link>
+                </item>
+            </submenu>
+        </item>
+        <item>
+            <text>Видео</text>
+            <link>./?page=video</link>
+        </item>
+        <item>
+            <text>Стоимость</text>
+            <link>./?page=price</link>
+        </item>
+        <item>
+            <text>Контакты</text>
+            <link>./?page=contact</link>
+        </item>
+    </menu>
+
+</menu>
