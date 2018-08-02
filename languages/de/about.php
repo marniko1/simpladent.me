@@ -66,60 +66,9 @@
     </div>
     <div class="clear"></div>
 </div>
-
-    <!--<div class="section" id="aboutSection_3">
-        <h1>Experten</h1>
-        <div class="select_block">
-        </div>
-
-        <script type="text/javascript">
-            var specialistList = [
-                                    {
-                        name: 'Stefa Ihde',
-                        desc: '<p>Gründer des Simpladent-Netzwerks</p>',
-                        img: 'img/about/239x190/1402570538890270179.jpg'                     },                                    {
-                        name: 'Antonina Ihde',
-                        desc: '<p>Traumatologe</p>',
-                        img: 'img/about/239x190/14025710761395264839.jpg'                     },                              //      {
-//                        name: 'Ковешников Константин Игоревич',
-//                        desc: '<p>Врач-</p><p>Опыт работы  лет</p><p>Клиника «Киадент»</p><p>г. Одесса</p>',
-//                        img: 'img/about/239x190/1401178575791909404.jpg' ,cityId: 4                    },                                    {
-//                        name: 'Ковешников Игорь Алексеевич ',
-//                        desc: '<p>Врач-</p><p>Опыт рабо ты  лет</p><p>Клиника «Киадент»</p><p>г. Одесса</p>',
-//                        img: 'img/about/239x190/14011788181005243828.jpg' ,cityId: 4                    },                                    {
-//                        name: 'Близнюченко Ростислав Анатольевич',
-//                        desc: '<p>Врач</p><p>Опыт работы  лет</p><p>Клиника «Киадент»</p><p>г. Одесса</p>',
-//                        img: 'img/about/239x190/1401178706496131949.jpg' ,cityId: 4                    },                                    {
-//                        name: 'Зарко Павел Николаевич',
-//                        desc: '<p>Врач-</p><p>Опыт работы  лет</p><p>Клиника</p><p>г. Харьков</p>',
-//                        img: 'img/about/239x190/14011791581357605072.jpg' ,cityId: 5                    }                            
-            ]
-        </script> -->
-        <!--<table>
-            <tr>
-                <td>                       
-                    <img src="img/about/239x190/d_ihde.jpg" />
-                    <div class="name" style=" font-family: 'Open Sans',sans-serif; font-size: 11px;    font-weight: bold;">Stefan Ihde</div>
-                    <div class="desc">
-                        <p style=" font-family: 'Open Sans',sans-serif;    font-size: 10px;    font-style: italic;">founder of the Simpladent network</p>
-                    </div>
-                </td>
-                <td style="padding-left: 50px;">
-                    <h2 style="font-family: 'Open Sans',sans-serif; font-size: 19px;    font-weight: bold;">Strategic Implants </h2>
-                    <p style="font-family: 'Open Sans',sans-serif;">
-                        Das Simpladent &reg; -Behandlungskonzept wird heute in vielen Ländern der Welt praktiziert. Es löst die konventionelle zahnärztliche Implantologie mit zweiphasigen Implantaten zunehmend ab. 
-                        Das Behandlungskonzept wurde von Prof. Dr. Stefan Ihde während seiner Tätigkeit in der Schweiz in der Zahnklinik Gommiswald entwickelt. Die zur Realisierung des Konzepts nötigen Implantate werden von Dr. Ihde Dental AG, 8737 Gommiswald, produziert.
-                    </p>
-                </td>
-            </tr>
-        </table>
-    </div>-->
         <div class="section" id="aboutSection_4">
         <h1>Zertifikat</h1>
         <div class="certificates">
-                            <!--<a href="img/about/certificate/14024969171842465584.png" class="fancybox cert" data-fancybox-group="cert" >
-                    <img src="img/about/129x179/14024969171842465584.png" alt="" />-->
-                </a>
                 <a href="img/pdf/CE_Certificate_Simpladent.pdf" class="fancybox cert" data-fancybox-group="cert" target="_blank">
                     <img src="/img/about/certificate/CE_Certificate_Simpladent.png" alt="" />
                 </a>
@@ -132,90 +81,32 @@
 
     <div class="section" id="aboutSection_5">
         <h1>Patientenberichte</h1>
-<!--         <div class="slider" data-row="1">
-            <a href="#" class="left_arr"></a>
-            <a href="#" class="right_arr"></a>
-            <ul class="clearfix slider_list">
-                                    <li> -->
                         <div class="reviews_list">
-                                                                                                <div class="review">
-                                        <div class="auth">
-                                            <div class="img">
-                                                <img src="img/about/80x80/1401196441463016508.png" alt="" />
-                                            </div>
-                                            <div class="text">
-                                                <div class="name">Dieter</div>
-                                                <div class="desc">München</div>
-                                            </div>
-                                        </div>
-                                        <div class="review_text">
-                                            <div class="article">
-                                                <blockquote>Mein Zahnarzt war komplett schockiert, als er sah wie das Verfahren funktioniert. Das war etwas völlig Neues für ihn und er wollte sich damit überhaupt nicht befassen. 
-												Er hatte jahrelang nur mit konventionellen Systemen gearbeitet.
-												Ich bin nun seit 15 Jahren mit dem System zufrieden und ich kann alles essen. Und nun, nach 15 Jahren, werde ich meine Brücken auf den Implantaten erneuern lassen.</blockquote>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-                                                                                                                                <div class="review">
-                                        <div class="auth">
-                                            <div class="img">
-                                                <img src="img/about/80x80/1401196379237642723.png" alt="" />
-                                            </div>
-                                            <div class="text">
-                                                <div class="name">Petra</div>
-                                                <div class="desc">Frankfurt</div>
-                                            </div>
-                                        </div>
-                                        <div class="review_text">
-                                            <div class="article">
-                                                <blockquote>Ich bin ein geselliger Mensch und ich habe so einen Beruf, in dem ich viel sprechen muss. Ich hatte große Probleme damit. Man hat mir sehr viele Behandlungspläne angeboten, aber die waren so quälend und furchtbar, dass ich damit nicht einverstanden sein konnte. Danke sehr dem Arzt, es ist eine große Freude wieder lächeln und unbeschwert sprechen  zu können, und Sie haben mir dieses Glück geschenkt. Sie schenken den Menschen ein neues Leben.</blockquote>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-                                    <div class="review">
-                                        <div class="auth">
-                                            <div class="img">
-                                                <img src="img/about/80x80/1401196315993169681.png" alt="" />
-                                            </div>
-                                            <div class="text">
-                                                <div class="name">Andrej</div>
-                                                <div class="desc">Moskau</div>
-                                            </div>
-                                        </div>
-                                        <div class="review_text">
-                                            <div class="article">
-                                                <blockquote>Während meiner Behandlung habe ich ein großes ästhetisches Vergnügen bekommen, weil ich die Arbeit der echten Profis beobachten konnte.</blockquote>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-									
-                                    <div class="review">
-                                        <div class="auth">
-                                            <div class="img">
-                                                <img src="img/about/80x80/1401196315993169681.png" alt="" />
-                                            </div>
-                                            <div class="text">
-                                                <div class="name">Steve</div>
-                                                <div class="desc">USA</div>
-                                            </div>
-                                        </div>
-                                        <div class="review_text">
-                                            <div class="article">
-                                                <blockquote>Ich kann gar nicht sagen wie dankbar ich darüber bin, was Sie für mich getan haben. Sie gaben mir mein Lächeln, meine Gesundheit und mein Leben zurück!...
-												<br />
-												<br />
-												...Ich empfehle die Simpladent Klinik für jeden Bedarf an Implantaten. Die Kompetenz, Erfahrung und Hingabe sind unvergleichbar mit jeder Klinik oder jedem System auf der Welt. Kurz gesagt, Sie sind die Besten der Besten!</blockquote>												
-											</div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>									
-                                                                                    </div>
-<!--                     </li>
-                            </ul>
-        </div> -->
+            <?php
+            foreach ($testimonials as $testimonial) {
+            ?>
+                <div class="review">
+                <div class="auth">
+                    <div class="img">
+                        <img src="<?php echo 'img/about/80x80/'.$testimonial['img']; ?>" alt="" />
+                    </div>
+                    <div class="text">
+                        <div class="name"><?php echo $testimonial->$language->name; ?></div>
+                        <div class="desc"><?php echo $testimonial->$language->city; ?></div>
+                    </div>
+                </div>
+                <div class="review_text">
+                    <div class="article">
+                        <blockquote><?php echo $testimonial->$language->text; ?></blockquote>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <?php
+            }
+            ?> 
+        </div>
     </div>
     </div>
 

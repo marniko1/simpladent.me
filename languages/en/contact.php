@@ -56,7 +56,7 @@
 					<br />
 					<br />
 					<div class="contactworldmap" style="">
-						<p style="width:464px; float:right;">See all clinics on the <a href="http://simpladent-implant.solutions/?page=map&i=5" target="_blank">world map</a></p>
+						<p style="width:100%; float:right;">See all clinics on the <a href="http://simpladent-implant.solutions/?page=map&i=5" target="_blank">world map</a></p>
 					</div>				
 					<br />						
 					<br />				

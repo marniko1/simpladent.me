@@ -72,3 +72,6 @@
     if (isset($_SESSION['lang'])) {
         $img = $_SESSION['lang'];
     }
+    // load testemonials
+    $testFile = 'testimonials/testimonials.xml';
+    $testimonials = simplexml_load_file($testFile);

@@ -57,7 +57,7 @@
 					<br />
 					<br />
 					<div class="contactworldmap" style="">
-						<p style="width:464px; float:right;"> Посмотреть все клиники <a href="http://simpladent-implant.solutions/?page=map&i=5" target="_blank">на карте мира</a></p>
+						<p style="width:100%; float:right;"> Посмотреть все клиники <a href="http://simpladent-implant.solutions/?page=map&i=5" target="_blank">на карте мира</a></p>
 					</div>				
 					<br />						
 					<br />					

@@ -59,62 +59,9 @@
     </div>
     <div class="clear"></div>
 </div>
-
-    <!--<div class="section" id="aboutSection_3">
-        <h1>Experts</h1>
-        <div class="select_block">
-        </div>
-
-        <script type="text/javascript">
-            var specialistList = [
-                                    {
-                        name: 'Stefan Ihde',
-                        desc: '<p>founder of the Simpladent network</p>',
-                        img: 'img/about/239x190/1402570538890270179.jpg'                     },                                    {
-                        name: 'Antonina Ihde',
-                        desc: '<p>orthopedic surgeon</p>',
-                        img: 'img/about/239x190/14025710761395264839.jpg'                     },
-//                    {
-//                        name: 'Ковешников Константин Игоревич',
-//                        desc: '<p>Врач-</p><p>Опыт работы  лет</p><p>Клиника «Киадент»</p><p>г. Одесса</p>',
-//                        img: 'img/about/239x190/1401178575791909404.jpg' ,cityId: 4                    },                                    {
-//                        name: 'Ковешников Игорь Алексеевич ',
-//                        desc: '<p>Врач-</p><p>Опыт работы  лет</p><p>Клиника «Киадент»</p><p>г. Одесса</p>',
-//                        img: 'img/about/239x190/14011788181005243828.jpg' ,cityId: 4                    },                                    {
-//                        name: 'Близнюченко Ростислав Анатольевич',
-//                        desc: '<p>Врач</p><p>Опыт работы  лет</p><p>Клиника «Киадент»</p><p>г. Одесса</p>',
-//                        img: 'img/about/239x190/1401178706496131949.jpg' ,cityId: 4                    },                                    {
-//                        name: 'Зарко Павел Николаевич',
-//                        desc: '<p>Врач-</p><p>Опыт работы  лет</p><p>Клиника</p><p>г. Харьков</p>',
-//                        img: 'img/about/239x190/14011791581357605072.jpg' ,cityId: 5                    }                           
-            ]
-        </script> -->
-        <!--<table>
-            <tr>
-                <td>                       
-                    <img src="img/about/239x190/d_ihde.jpg" />
-                    <div class="name" style=" font-family: 'Open Sans',sans-serif; font-size: 11px;    font-weight: bold;">Stefan Ihde</div>
-                    <div class="desc">
-                        <p style=" font-family: 'Open Sans',sans-serif;    font-size: 10px;    font-style: italic;">founder of the Simpladent network</p>
-                    </div>
-                </td>
-                <td style="padding-left: 50px;">
-                    <h2 style="font-family: 'Open Sans',sans-serif; font-size: 19px;    font-weight: bold;">Stretegic Implants</h2>
-                    <p style="font-family: 'Open Sans',sans-serif;">
-                       The Simpladent&reg; -concept of  implant treatment is offered today in many countries. It replaces conventional dental implantology on 2-stage implants.
-The treatment concept was invented by Prof. Dr. Stefan Ihde during his work in the clinic in Gommiswald/Switzerland. The implants and components for this concept are produced by Dr. Ihde Dental AG, 8737 Gommiswald/Switzerland.
-                    </p>
-                </td>
-            </tr>
-        </table>
-    </div>-->
-
 	<div class="section" id="aboutSection_4">
         <h1>Certificate</h1>
         <div class="certificates">
-                            <!--<a href="img/about/certificate/14024969171842465584.png" class="fancybox cert" data-fancybox-group="cert" >
-                    <img src="img/about/129x179/14024969171842465584.png" alt="" />-->
-                </a>
                 <a href="img/pdf/CE_Certificate_Simpladent.pdf" class="fancybox cert" data-fancybox-group="cert" target="_blank">
                     <img src="/img/about/certificate/CE_Certificate_Simpladent.png" alt="" />
                 </a>
@@ -127,94 +74,33 @@ The treatment concept was invented by Prof. Dr. Stefan Ihde during his work in t
 	
     <div class="section" id="aboutSection_5">
         <h1>Patient Testimonials</h1>
- <!--        <div class="slider" data-row="1">
-            <a href="#" class="left_arr"></a>
-            <a href="#" class="right_arr"></a>
-            <ul class="clearfix slider_list">
-                                    <li> -->
                         <div class="reviews_list">
-                                    <div class="review">
-                                        <div class="auth">
-                                            <div class="img">
-                                                <img src="img/about/80x80/1401196441463016508.png" alt="" />
-                                            </div>
-                                            <div class="text">
-                                                <div class="name">Dieter</div>
-                                                <div class="desc">Munich</div>
-                                            </div>
-                                        </div>
-                                        <div class="review_text">
-                                            <div class="article">
-                                                <blockquote>
-												My dentist was completely shocked when he saw the results of my treatment. That was completely new for him and he didn`t want to know anything about it. He had been working for years only with conventional systems.
-												I am now 15 years with my new teeth and  I can eat everything. Now, after this time period, I will have my bridges changed on the implants.</blockquote>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-                                    <div class="review">
-                                        <div class="auth">
-                                            <div class="img">
-                                                <img src="img/about/80x80/1401196379237642723.png" alt="" />
-                                            </div>
-                                            <div class="text">
-                                                <div class="name">Petra</div>
-                                                <div class="desc">Frankfurt</div>
-                                            </div>
-                                        </div>
-                                        <div class="review_text">
-                                            <div class="article">
-                                                <blockquote>I am very sociable person and also because of my profession I have to speak a lot. I had a very big problem with it. I was offered a lot of different treatment 
-												plans, but it was so painful and horrible that I could not agree. Thank you very much, Dr.Ihde, it's great happiness to get a smile and you gave me this happiness!!! 
-												You give people really a new life.</blockquote>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-                                    <div class="review">
-                                        <div class="auth">
-                                            <div class="img">
-                                                <img src="img/about/80x80/1401196315993169681.png" alt="" />
-                                            </div>
-                                            <div class="text">
-                                                <div class="name">Andrej</div>
-                                                <div class="desc">Moscow</div>
-                                            </div>
-                                        </div>
-                                        <div class="review_text">
-                                            <div class="article">
-                                                <blockquote>During my own treatment I have received a great aesthetic pleasure, while watching the work of real professional.</blockquote>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
+            <?php
+            foreach ($testimonials as $testimonial) {
+            ?>
+                <div class="review">
+                <div class="auth">
+                    <div class="img">
+                        <img src="<?php echo 'img/about/80x80/'.$testimonial['img']; ?>" alt="" />
+                    </div>
+                    <div class="text">
+                        <div class="name"><?php echo $testimonial->$language->name; ?></div>
+                        <div class="desc"><?php echo $testimonial->$language->city; ?></div>
+                    </div>
+                </div>
+                <div class="review_text">
+                    <div class="article">
+                        <blockquote><?php echo $testimonial->$language->text; ?></blockquote>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <?php
+            }
+            ?>  							
 									
-                                    <div class="review">
-                                        <div class="auth">
-                                            <div class="img">
-                                                <img src="img/about/80x80/1401196315993169681.png" alt="" />
-                                            </div>
-                                            <div class="text">
-                                                <div class="name">Steve</div>
-                                                <div class="desc">USA</div>
-                                            </div>
-                                        </div>
-                                        <div class="review_text">
-                                            <div class="article">
-                                                <blockquote>I can not begin to tell you how much I appreciate what you have done for me,you gave me back my smile,and my health, but even more important, you gave me back my life! ...
-												<br />
-												<br />
-												... I highly recommend the Simpladent clinic to anyone in need of implants. The skill ,expertise, experience, and dedication at the clinic are unmatched by any clinic or system in the world. Simply put, you are the best of the best.
-												</blockquote>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>									
-									
-                                                                                    </div>
-<!--                     </li>
-                            </ul>
-        </div> -->
+        </div>
     </div>
     </div>
 
