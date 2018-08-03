@@ -24,7 +24,7 @@
 					<script>
 						//video_link=['ei969nM_m5c','-F9lwKz-IIc','QszbCpeEiRo','EK7uB7Vt6s8','Pxn77D3P0us'];
 						//video_desc=['Top 3 advantages of Immediate Load Implantation(ILI)','Am I a candidate for Immediate Load Implantation(ILI)?','I have diabetes. Can Immediate Load Implantation(ILI) be a solution for me?','Can I really eat steak 5 days after the start of the treatment?','Is Immediate Load Implantation (ILI) a painless procedure?'];
-						video_link=['GsXrXTzWaLo', 'NhILOHzdIRc', 'lqQg7LGAgSA', 'BzBip26Q8d8', 'C0fJKZL_P3Q'];
+						video_link=['iglXIZFKSNA', 'rs8Z9qnA6sY', 'jr9stmG5Ycg', 'jn3OQSD-DJ0', '2BnG5-XOOaM'];
 						video_desc=['Welches sind die drei Hauptvorteile basaler Implantate? (Teil 1/5)', 'Bin ich ein Fall für basale Implantate? (Teil 2/5)', 'Ich habe Diabetes. Kann ich basale Implantate bekommen? (Teil 3/5)', 'Wenige Tage nach der Implantateinsetzung schon wieder Fleisch essen? (Teil 4/5)', 'Ist die basale Implantation wirklich schmerzfrei? (Teil 5/5)'];
 						
 						video_link_infofilm=['-xOM-T4wu-8'];
@@ -54,7 +54,7 @@
 							
 							if( jQuery('#video_box').text()=='' && infofilm=='' )
 							{
-								insert_video('GsXrXTzWaLo');
+								insert_video('iglXIZFKSNA');
 							}
 							else
 							{

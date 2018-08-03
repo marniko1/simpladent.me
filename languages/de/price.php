@@ -166,7 +166,7 @@
                 
             </div>
 			
-<div class="article">
+<div class="article cost_last_par">
 	<br />
 	<br />
 	<p>Die hier gezeigten Behandlungsbeispiele geben ur eine grobe Übersicht über die prinzipiellen Möglichkeiten der Behandlung. Nicht in allen klinischen Fällen können die hier gezeigten 

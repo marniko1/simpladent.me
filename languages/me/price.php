@@ -165,7 +165,7 @@
                 
             </div>
 			
-<div class="article">
+<div class="article cost_last_par">
 	<br />
 	<br />
 	<p>Ovdje pokazani primjeri tretmana daju samo jedan grub pregled nekih principijelnih mogućnosti koje metoda pruža. Ali ne u svim kliničkim slučajevima mogu ovdje prikazani rezulatati na 

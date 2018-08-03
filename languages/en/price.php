@@ -170,7 +170,7 @@ the lost roots of the missing teeth). </p>
                 
             </div>
 			
-<div class="article">
+<div class="article cost_last_par">
 	<br />
 	<br />
 	<p>The treatment examples shown here provide only an overview on the treatment possibilities.  Not in all clinical cases the same results are possible.  

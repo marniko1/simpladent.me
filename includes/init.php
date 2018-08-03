@@ -73,5 +73,8 @@
         $img = $_SESSION['lang'];
     }
     // load testemonials
-    $testFile = 'testimonials/testimonials.xml';
+    $testFile = '../../testimonials/testimonials.xml';
+    if (!is_file($testFile)) {
+        $testFile = 'testimonials/testimonials.xml';
+    }
     $testimonials = simplexml_load_file($testFile);

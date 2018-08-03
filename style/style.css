@@ -1720,6 +1720,7 @@ h2 {
   list-style: none;
   padding-left: 55px;
   position: relative;
+  min-height: 35px;
 }
 .article ol li:before {
   width: 28px;
