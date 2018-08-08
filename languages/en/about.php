@@ -63,7 +63,7 @@
         <h1>Certificate</h1>
         <div class="certificates">
                 <a href="img/pdf/CE_Certificate_Simpladent.pdf" class="fancybox cert" data-fancybox-group="cert" target="_blank">
-                    <img src="/img/about/certificate/CE_Certificate_Simpladent.png" alt="" />
+                    <img src="img/about/certificate/CE_Certificate_Simpladent.png" alt="" />
                 </a>
                     </div>
         <div class="article">
