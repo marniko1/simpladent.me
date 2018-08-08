@@ -37,7 +37,7 @@ Nakon uklanjanja zuba, pacijenti mogu očekivati da se pojavi uobičajeni bol, k
 
 Svaki pacijent postavljaju sebi ovo pitanje – i naročito oni, koji pate od kompromitirajučeg  opštog stanja zdravlja ili hroničnih oboljenja (npr. dijabetis) ili su strastveni pušači.<br />
 <br />
-Odgovor glasi nedvosmisleno: Da! Preko 99% pacijenata je uspješno tretirano sa Strategic implantatima.<br />
+Odgovor glasi nedvosmisleno: Da! Preko 99% pacijenata je uspješno tretirano sa Strategic Implant<sup>®</sup>.<br />
 <br />
 Uključujući i one ljude, koji pate od oboljenja periodoncijuma i (hronićnom) upalom desni (gingivistima). Ili onih, koji na osnovu dugoroćnih, mukotrpnih kao i skupih metoda tretmana konvencionalne implantologije, odavno izgubili nadu da imaju čvrste zube. Svi ovi pacijenti mogu riješiti problem nedostatka zuba „samo jednim tretmanom“. <br />
 <br />
@@ -74,7 +74,7 @@ Troškovi tretmana konvencijalnim 2-faznim implantatima se nekontrolisano sabira
 <br />
 Ako se primenjuje naša metoda rada onda pojedini hirurški zahvati, na primer koštani transplantati, su nepotrebni. Izostavljanjem ovih zahvata, kao rezultat imamo smanjenje uobičajenih troškova od 30. 
 Dodatnih 20% pacijenti mogu uštedjeti izbjegavanjem privremenih protetskih radova, koji su takođe nepotrebni kada se radi u protokolu imedijatnog opterećenja. Promjena metode tretmana se gotovo uvijek isplati. 
-U jednom hirurškom zahvatu se konvencionalni implantati  otklanjaju i postavljaju se odmah Strategic  implantati<sup>®</sup>. U roku od 3 do max 5 dana možete život sa osmehom uživati.
+U jednom hirurškom zahvatu se konvencionalni implantati  otklanjaju i postavljaju se odmah Strategic Implant<sup>®</sup>. U roku od 3 do max 5 dana možete život sa osmehom uživati.
 <br />
 <br />
 

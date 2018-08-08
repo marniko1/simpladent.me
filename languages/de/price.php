@@ -39,7 +39,7 @@
 	<br />
 	<img style="width:312px;" src="img/price/Fig.1.jpg" alt="" />Ein oberer Frontzahn musste aufgrund der Zerstörung der Wurzel und einer Infektion entfernt werden. <br />
 	<br />
-	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />Der Zahn wurde durch ein BECES Strategic Implant(R) sofort nach der Extraktion ersetzt. <br />
+	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />Der Zahn wurde durch ein BECES Strategic Implant<sup>®</sup> sofort nach der Extraktion ersetzt. <br />
 	<br />
 	<img style="width:312px;" src="img/price/IMG_1921.jpg" alt="" />Für drei Monate wurde ein provisorischer Zahn eingesetzt. <br />
 	<br />

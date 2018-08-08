@@ -9,8 +9,8 @@
     <div class="main_block">
         <h1>Implantologija</h1>
         <div class="article">
-            <h2>Što je „Strategic Implant“ „Bazalna implantologija“?</h2>
-            <p>Pojam „Strategic Implant“ je danas zaštitni znak za implantate Simpladent d.o.o., naziv „bazalna implantologija“ je 1999 godine prvi put primenjena. U to vrijeme je počeo jedan od največih dostignuća u dentalnoj implantologiji: tehnologija imedijatnog opterećenja je razvijeno. Uz pomoć Strategic Implant<sup>®</sup> je takodje riješen problem nedostatka kostiju, uz to danas mogu takodje i dijabetičari i drugi pacijenti sa pratećim oboljenjima da budu tretirani (lijećeni).</p>
+            <h2>Što je „Strategic Implant<sup>®</sup>“?</h2>
+            <p>Pojam „Strategic Implant<sup>®</sup>“ je danas zaštitni znak za implantate Simpladent d.o.o., naziv „Strategic Implant<sup>®</sup>“ je 1999 godine prvi put primenjena. U to vrijeme je počeo jedan od največih dostignuća u dentalnoj implantologiji: tehnologija imedijatnog opterećenja je razvijeno. Uz pomoć Strategic Implant<sup>®</sup> je takodje riješen problem nedostatka kostiju, uz to danas mogu takodje i dijabetičari i drugi pacijenti sa pratećim oboljenjima da budu tretirani (lijećeni).</p>
             <p>Svaki implantat je fiksiran na najmanje dva mjesta u kortikalnoj kosti. Ova kost posjeduje visok nivo stabilnosti, i on je u stanju da odmah preuzima opterećenje žvakanja i ne resorbuje se tokom života. Nadogradnja kostiju, sinuslift, čekanje i transplantacija kostiju nisu danas više potrebni.</p>
             <p>Zato možemo danas, sa tehnologijom strateške implantologije, i kod velikog nedostatka kosti sa uspjehom da liječimo i pacijentu za nekoliko dana vratimo zadovoljan osmjeh</p>
         </div>
@@ -34,7 +34,7 @@
     <div class="info">
         <div class="article">
             <p>U posljednjih deset godina,  je tehnologija „Immediate Loading Implantology“ (implantologija koja se odmah sprovodi) na naućnom polju od Simpladent d.o.o. u saradnji sa Dr. Ihde Dental AG dalje razvijana. Dodatne informacijenalazite na <a href="http://ihde.com/" target="_blank">www.ihde.com</a> i <a href="http://strategic-implant.com/de/" target="_blank">www.strategic-implant.com</a>. Usavršavanje implantologa koji su specializovani na ugradnju implantata se odvija se ekskluzivno preko International Implant Foundation, Minhen (<a href="http://www.implantfoundation.org/de/" target="_blank">www.implantfoundation.org </a>).</p>
-            <p>Simpladent GmbH je osim toga razvio jedan novi koncept tretmana za maksilo-facijalnim protetiku zajedno sa odsjekom za maksilo-facijalnom hirurgijom Beogradskog Univerziteta (Prof.V.Konstantinović, Prof.Lazić). Ovi eksperti su istinski pioniri i vodeći svjetski specijalisti na ovom polju, npr. ugradnja lateralnih i kompresijskih Strategic implantata u frontalnu kost, mastoidnu kost i glabelu.</p>
+            <p>Simpladent GmbH je osim toga razvio jedan novi koncept tretmana za maksilo-facijalnim protetiku zajedno sa odsjekom za maksilo-facijalnom hirurgijom Beogradskog Univerziteta (Prof.V.Konstantinović, Prof.Lazić). Ovi eksperti su istinski pioniri i vodeći svjetski specijalisti na ovom polju, npr. ugradnja lateralnih i kompresijskih Strategic Implant<sup>®</sup> u frontalnu kost, mastoidnu kost i glabelu.</p>
             <p>I naravno, dalji razvoj implantata se neće zaustaviti na ovom mjestu. Danas su sistemi implantata za imedijativno opterećenje od Simpladent GmbH najviše razvijeni tip i u skoro cijelom svijetu se koristi. Na mnogim univerzitetima širom svijeta se danas sa ovom tehnologijom radi.</p>
         </div>
     </div>
@@ -108,12 +108,12 @@
                     </ul>
         </div>
         <div class="article">
-            <blockquote>U klinikama Simpladent grupe koriste se samo moderni, Strategic implantati i originalni djelovi proizvedeni u pogonima Simpladent GmbH, Gommiswald/Švicarska. Quality Made in Switzerland. Implantati su CE-certificirani i u mnogim državama nacionalno dozvoljeni.</blockquote>
+            <blockquote>U klinikama Simpladent grupe koriste se samo moderni, Strategic Implant<sup>®</sup> i originalni djelovi proizvedeni u pogonima Simpladent GmbH, Gommiswald/Švicarska. Quality Made in Switzerland. Implantati su CE-certificirani i u mnogim državama nacionalno dozvoljeni.</blockquote>
         </div>
     </div>
 
 <div class="section" id="methSection_3">
-    <h1>Procedura postavljanja strategic implantata</h1>
+    <h1>Procedura postavljanja Strategic Implant<sup>®</sup></h1>
     <div class="img">
         <img src="img/metholoy/img6.jpg" alt="" />
     </div>
@@ -391,7 +391,7 @@
     <div class="columns">
         <div class="col">
             <div class="article">
-                <h2>Indikacije za Strategic Implantate</h2>
+                <h2>Indikacije za Strategic Implant<sup>®</sup></h2>
                 <ul>
                     <li>Situacija, u kojoj zubi djelimično ili potpuno nedostaju i u kojoj se žele imati čvrsti vještački zubi.</li>
                     <li>Nakon gubitka prvobitnih dvo-faznih-implantata (takođe nakon periimolantitis) odnosno, nakon gubitka augmentacije kostiju </li>
@@ -476,7 +476,7 @@
                     </div>
                     <div class="text">
                         <div class="article">
-							<p>Primjer 3: Kod ovog pacijenta nijedan od zuba nije bio vrijedan spasavanja. Zato su svi zubi bili uklonjeni iz gornje i donje vilice i odmah 19 Strategic implantata je ugrađeno. 
+							<p>Primjer 3: Kod ovog pacijenta nijedan od zuba nije bio vrijedan spasavanja. Zato su svi zubi bili uklonjeni iz gornje i donje vilice i odmah 19 Strategic Implant<sup>®</sup> je ugrađeno. 
 							Posle dva dana proteitska konstrukcija je bila gotova i mostovi su cementirani trajnim cementom. Odmah je uspostavljena normalna funkcija žvakanja. 
 							Donja rendgenska slika je 11 mjeseci nakon početka tretmana napravljena: sva žarišta infekcije u vilicama su nestala, kost je potpuno zarasla.</p>
                         </div>
@@ -515,7 +515,7 @@
 		<div style="font-size:12px;">
 		Ovdje pokazani primjeri tretmana daju samo jedan grubi pregled o principijalnoj mogučnostima tretmana. Ne u svim kliničkim slučajevima, mogu ovi rezultati biti postignuti.
 		Imajte u vidu, da optički izgled novih zuba zavisi od količine (volumena) mekog tkiva (tj. kosti i sluzokože). Implantati ne zamenjuju kost niti strukture mekog tkiva. Implamtati pružaju stabilne tačke sidrišta za postavljanje mostova i kruna. 
-		Implantate tipa Strategic Implant mogu se  u skoro svim stanjima kostiju bez  koštane augmentacije ili dodatnih operacija ugraditi . Oni se sigurno učvršćuju i kod malih ostataka kostiju.
+		Implantate tipa Strategic Implant<sup>®</sup> mogu se  u skoro svim stanjima kostiju bez  koštane augmentacije ili dodatnih operacija ugraditi . Oni se sigurno učvršćuju i kod malih ostataka kostiju.
 		</div>		
     </div>
 

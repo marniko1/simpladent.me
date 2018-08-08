@@ -38,7 +38,7 @@
 	<br />
 	<img style="width:312px;" src="img/price/Fig.1.jpg" alt="" />One upper central had to be extracted due to a severe deterioration of the root and an untreatable apical infection. <br />
 	<br />
-	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />The tooth was replaced by a BCS Strategic Implant(R) immediately after the extraction. <br />
+	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />The tooth was replaced by a BCS Strategic Implant<sup>®</sup> immediately after the extraction. <br />
 	<br />
 	<img style="width:312px;" src="img/price/IMG_1921.jpg" alt="" />For three month a fixed immediate temporary was incorporated. <br />
 	<br />

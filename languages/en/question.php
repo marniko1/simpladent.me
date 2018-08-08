@@ -19,7 +19,7 @@
 <h2>What are the three main advantages of the Simpladent<sup>®</sup> treatment method with the <a href="http://www.strategic-implant.com" target="_blank">Strategic Implant<sup>®</sup></a>?</h2>
 <ul style="margin-left:10px;">
 <li><strong>1.	Speed:</strong> <br />
-In just one single surgical procedure teeth are removed and Strategic Implants inserted immediately afterwards. Contrary to conventional methods, the implants are set into cortical bone. Only small amounts of this bone areas are necessary for successful treatment, thereby avoiding bone augmentation, bone transplants and sinus-lift. This saves 98% of the entire treatment time and significantly reduces suffering or discomfort for patient.</li>
+In just one single surgical procedure teeth are removed and Strategic Implant<sup>®</sup> inserted immediately afterwards. Contrary to conventional methods, the implants are set into cortical bone. Only small amounts of this bone areas are necessary for successful treatment, thereby avoiding bone augmentation, bone transplants and sinus-lift. This saves 98% of the entire treatment time and significantly reduces suffering or discomfort for patient.</li>
 <br />
 <li><strong>2.	Safety:</strong> <br />
 Any surgical procedure we can spare reduces the overall risk for the patient. By opting out of bone augmentation, transplants and other procedures, the risks are minimized by the Simpladent<sup>®</sup> method: only a single surgical intervention is necessary.</li>
@@ -71,7 +71,7 @@ Yes, of course.
 The treatment costs for conventional 2-stage implants often accumulate uncontrollably over months or even years.  One surgery here, another intervention there, aftercare… the bills pile up. The patient is afraid to terminate the treatment or isn’t aware of treatment alternatives. They feel stuck in a dead end.
 <br />
 Many surgical steps and procedures, such as bone grafting, are unnecessary in our treatment method. Being able to omit these procedures results in cost reduction of 30% compared to the expenses associated with traditional methods. Another 20% are saved by eliminating temporary prosthetic solutions, which are equally unnecessary in immediately loaded implants.
-Switching treatment methods and providers almost always pays off. The conventional implants are removed and the new Strategic Implants placed in one single surgical procedure. Patients can resume their lives with a smile within three to five days at most.
+Switching treatment methods and providers almost always pays off. The conventional implants are removed and the new Strategic Implant<sup>®</sup> placed in one single surgical procedure. Patients can resume their lives with a smile within three to five days at most.
 <br />
 <br />
 
@@ -106,7 +106,7 @@ The longer conventional 2-stage implants with large, roughened surfaces are in u
 <br />
 Peri-implantitis appears in 50% of treated cases – and often after the implant has healed; just when everything looks good and patients begin using the implants to chew.
 <br />
-There is currently no effective treatment against this phenomenon. All attempts at cleaning the affected areas are to no avail, since millions of new bacteria are perpetually created inside the mouth. The only secure way of combating the infection is the removal of the conventional implants and the placement of Strategic Implants instead.
+There is currently no effective treatment against this phenomenon. All attempts at cleaning the affected areas are to no avail, since millions of new bacteria are perpetually created inside the mouth. The only secure way of combating the infection is the removal of the conventional implants and the placement of Strategic Implant<sup>®</sup> instead.
 <br />
 Detailed information on the topic is available here: <a href="http://www.peri-implantitis.info/en/" target="_blank"> www.peri-implantitis.info </a>
 <br />

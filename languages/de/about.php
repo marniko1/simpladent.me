@@ -9,7 +9,7 @@
         <div class="article">
             <blockquote>Seit 1994 habe ich in der Schweiz gearbeitet. In meiner Klinik waren über 6000 regelmässige Patienten; es gab enorm viel Arbeit. Mir wurde klar, dass es bei so vielen Patienten unmöglich war, 
 			irgendwann mit der Arbeit fertig zu werden. Die Implantologie mit konventionellen Implantaten ist einfach zu zeitaufwendig und teuer, zudem hatten die Patienten oft zu wenig Knochen. 
-			Damals entwickelte ich die Grundideen zu dem heute weltweit verwendeten Behandlungskonzept des "Strategic Implant".</blockquote>
+			Damals entwickelte ich die Grundideen zu dem heute weltweit verwendeten Behandlungskonzept des "Strategic Implant<sup>®</sup>".</blockquote>
         </div>
     </div>
     <div class="main_block">

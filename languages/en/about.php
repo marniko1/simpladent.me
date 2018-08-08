@@ -8,7 +8,7 @@
         </div>
         <div class="article">
             <blockquote>I have worked in Switzerland since 1994. I had more than 6,000 patients in my clinic, there was an enormous amount of work. I realized it was impossible to ever get it all done. Conventional methods of implantology were simply too time consuming and expensive; also patients simply often did not have enough bone.  
-			 It was then that I developed the initial ideas for the concept of strategic implantology that is used worldwide today. </blockquote>
+			 It was then that I developed the initial ideas for the concept of Strategic Implant<sup>®</sup> that is used worldwide today. </blockquote>
         </div>
     </div>
     <div class="main_block">
@@ -18,7 +18,7 @@
             <p>Today the Dr. IhdeDental Group is one of the world's leading manufacturers of dental implants for immediate loading. Its products are used in more than 40 countries. Over 1.000,000 implants have been produced in Switzerland since then, and used world wide. While the production was not done inhouse in the early years, the group has now integrated almost all production steps into the headquarters in Switzerland.</p>
             <p>Dr. IhdeDental has developed implants that show great results even in difficult cases. Very low bone supply is necessary, therefore bone transplants and augmentations became completely unnecessary.</p>
             <p>The scientific head of the group is Prof. Dr. Stefan Ihde, who received dental education in Germany (1982-1987) and further training as periodontist and oral surgeon.
-			He developed modern strategic implantology. The Simpladent association of dental clinics, an educational system for implantologists, and the concept of immediate loading were all formed under his guidance.</p>
+			He developed modern Strategic Implant<sup>®</sup>. The Simpladent association of dental clinics, an educational system for implantologists, and the concept of immediate loading were all formed under his guidance.</p>
             <p>
                 <img src="img/about/img12.jpg" alt="" />
             </p>

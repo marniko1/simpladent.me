@@ -9,24 +9,24 @@
     <div class="main_block">
         <h1>Immediate Loading Implantology Today</h1>
         <div class="article">
-            <h2>What is Strategic Implantology?</h2>
-            <p>The term "Strategic Implant" is a registered trademark for the implants of the Simpladent Group. The term "basal implantology" first appeared around 1999; a time of breakthrough in modern dental implantology: immediate loading technology was developed. It simultaneously solved the problem of low bone supply and enabled patients with diabetes and other medical issues to receive safe treatment.</p>
+            <h2>What is Strategic Implant<sup>®</sup>?</h2>
+            <p>The term "Strategic Implant<sup>®</sup>" is a registered trademark for the implants of the Simpladent Group. The term "basal implantology" first appeared around 1999; a time of breakthrough in modern dental implantology: immediate loading technology was developed. It simultaneously solved the problem of low bone supply and enabled patients with diabetes and other medical issues to receive safe treatment.</p>
             <p>Each implant is fixated in at least two locations in cortical bone. This type of bone provides a high level of mineralization and stability and low metabolism. It can be immediately loaded and practically does not resorb throughout a patient's lifetime. Bone augmentation, sinus lift, bone transplants and waiting periods become unnecessary.</p>
-            <p>With the help of the Strategic Implant we are able to successfully supply treatment even in cases of severe bone atrophy. The patient receives a beautiful smile within just a few days.</p>
+            <p>With the help of the Strategic Implant<sup>®</sup> we are able to successfully supply treatment even in cases of severe bone atrophy. The patient receives a beautiful smile within just a few days.</p>
         </div>
     </div>
 
     <div class="note">Thousands of patients have been treated globally with over 1.000,000 placed implants.</div>
     <div class="benefits">
         <div class="article">
-            <h2>6 advantages of Strategic Implantology:</h2>
+            <h2>6 advantages of Strategic Implant<sup>®</sup>:</h2>
             <ol>
                 <li>Patients requesting implants can be treated practically without exception - regardless of the extent of bone loss or whether residual teeth are present and require extraction.</li>
-                <li>Only one single surgical intervention is necessary. Strategic Implants are splinted with (permanent or semi-permanent) bridges very soon after the implant placement. If desired, another bridge (for instance of a different material) may be placed after 6-9 months. In many cases however the first bridge will be the final one.</li>
+                <li>Only one single surgical intervention is necessary. Strategic Implant<sup>®</sup> are splinted with (permanent or semi-permanent) bridges very soon after the implant placement. If desired, another bridge (for instance of a different material) may be placed after 6-9 months. In many cases however the first bridge will be the final one.</li>
                 <li>The low number of surgeries and other treatment steps reduces overall cost. Rapid and effective measures can be taken by our qualified specialists should complications occur.</li>
                 <li>Implants with slim design interfere with the host bone's blood supply much less than comparable conventional implants.</li>
-				<li>The polished implants are virtually free from peri-implantitis, a dangerous infection found only around conventional implants. Peri-implantitis leads to serious problems and severe bone loss. The infection is not found around Strategic Implants. Please visit <a href="http://www.peri-implantitis.info" target="_blank">www.peri-implantitis.info</a> for further information. </li>
-                <li>Because Strategic Implants can be immediately loaded, patients can quickly return to their normal life.</li>
+				<li>The polished implants are virtually free from peri-implantitis, a dangerous infection found only around conventional implants. Peri-implantitis leads to serious problems and severe bone loss. The infection is not found around Strategic Implant<sup>®</sup>. Please visit <a href="http://www.peri-implantitis.info" target="_blank">www.peri-implantitis.info</a> for further information. </li>
+                <li>Because Strategic Implant<sup>®</sup> can be immediately loaded, patients can quickly return to their normal life.</li>
             </ol>
         </div>
     </div>
@@ -37,8 +37,8 @@
 			research center in cooperation with Dr. Ihde Dental AG. Further information can be found on 
 			<a href="http://www.ihde.com" target="_blank">www.ihde.com</a> and <a href="http://www.strategic-implant.com/en/" target="_blank">www.strategic-implant.com</a>. The training of specialized implantologists is exclusively 
 			conducted by the International Implant Foundation, Munich <a href="http://implantfoundation.org/en/" target="_blank">(www.implantfoundation.org)</a>.</p>
-            <p>For the maxilla-facial field Simpladent GmbH has also developed a revolutionary treatment concept in cooperation with maxillo-facial department of the Belgrade University (Prof. V. Konstantinovic/ Prof. Lazic). These two experts are the pioneers and leading specialists in the placement of lateral and screwable strategic implants in the frontal bone, mastoid, and glabella.</p>
-            <p>Of course the developments do not stop here. Simpladent's strategic implants are currently the most advanced implant types available and in use around the world.</p>
+            <p>For the maxilla-facial field Simpladent GmbH has also developed a revolutionary treatment concept in cooperation with maxillo-facial department of the Belgrade University (Prof. V. Konstantinovic/ Prof. Lazic). These two experts are the pioneers and leading specialists in the placement of lateral and screwable Strategic Implant<sup>®</sup> in the frontal bone, mastoid, and glabella.</p>
+            <p>Of course the developments do not stop here. Simpladent's Strategic Implant<sup>®</sup> is currently the most advanced implant types available and in use around the world.</p>
         </div>
     </div>
 </div>
@@ -113,18 +113,18 @@
                     </ul>
         </div>
         <div class="article">
-            <blockquote>All Strategic Implants used in the Simpladent Group come from the Simpladent GmbH in Gommiswald, Switzerland. The modern, patented Strategic Implants are certified and registered in many countries. </blockquote>
+            <blockquote>Strategic Implant<sup>®</sup> used in the Simpladent Group come from the Simpladent GmbH in Gommiswald, Switzerland. The modern, patented Strategic Implant<sup>®</sup> are certified and registered in many countries. </blockquote>
         </div>
     </div>
 
 <div class="section" id="methSection_3">
-    <h1>Placement of the strategic Implant</h1>
+    <h1>Placement of the Strategic Implant<sup>®</sup></h1>
     <div class="img">
         <img src="img/metholoy/img6.jpg" alt="" />
     </div>
     <div class="article">
         <p>Inspection of the oral cavity and x-ray examination are done by the treatment provider. Subsequently the treatment can begin. As a rule this occurs immediately since the precautions and additional 
-		steps necessary in conventional implants (pre-operative improvement of oral hygiene, periodontal pre-treatment, etc) are not applicable for the Strategic Implant &reg;, if the affected teeth are simply extracted.</p>
+		steps necessary in conventional implants (pre-operative improvement of oral hygiene, periodontal pre-treatment, etc) are not applicable for the Strategic Implant<sup>®</sup>, if the affected teeth are simply extracted.</p>
         <p>On the day of surgery the affected teeth are extracted and the implants placed straight away. The prosthetic treatment begins right after the implants are inserted. After three days at the latest 
 		the first fixed bridge is fixed and the new teeth can be used for eating, smiling, speaking!</p>
     </div>
@@ -147,7 +147,7 @@
     <table>
         <tr>
             <td class="type1">
-                <div class="name">Strategic</div>
+                <div class="name">Strategic Implant<sup>®</sup></div>
             </td>
             <td>stage </td>
             <td class="type2">
@@ -370,7 +370,7 @@
     <div class="columns">
         <div class="col">
             <div class="article">
-                <h2>Indications for strategic implants:</h2>
+                <h2>Indications for Strategic Implant<sup>®</sup>:</h2>
                 <ul>
                     <li>partly or completely missing teeth, or when fixed bridges are desired</li>
                     <li>when the procedure of 2-stage implant placement or bone augmentation  has failed</li>
@@ -458,7 +458,7 @@
                     </div>
                     <div class="text">
                         <div class="article">
-							<p>None of the patient’s remaining teeth were worth saving. Therefore all teeth in the upper and lower jaw were removed and a total of 19 Strategic Implants were inserted. Two days later the prosthetic construction was ready and the bridges were cemented with definitive cement. Regular chewing function was possible immediately. The lower x-ray was taken 11 months post-operatively.  All infected areas in the jaw bones had healed, the picture shows good bone in all places.</p>
+							<p>None of the patient’s remaining teeth were worth saving. Therefore all teeth in the upper and lower jaw were removed and a total of 19 Strategic Implant<sup>®</sup> were inserted. Two days later the prosthetic construction was ready and the bridges were cemented with definitive cement. Regular chewing function was possible immediately. The lower x-ray was taken 11 months post-operatively.  All infected areas in the jaw bones had healed, the picture shows good bone in all places.</p>
                         </div>
                     </div>
                     <div class="clear"></div>
@@ -494,7 +494,7 @@
 		<hr>
 		<br />
 		<div style="font-size:12px;">
-		The treatment examples shown here provide only an overview on the treatment possibilities. Not in all clinical cases the same results are possible. Note that the appearance of the new teeth depends also on the available volume of the underlying bone and the volume of the soft tissue. Implants do not replace bone or soft tissues. Implants create a stable anchorage for the placement of crowns and bridges. The Strategic Implant® is typically suitable for use without bone augmentation. It works with the available rests of the bone. 
+		The treatment examples shown here provide only an overview on the treatment possibilities. Not in all clinical cases the same results are possible. Note that the appearance of the new teeth depends also on the available volume of the underlying bone and the volume of the soft tissue. Implants do not replace bone or soft tissues. Implants create a stable anchorage for the placement of crowns and bridges. The Strategic Implant<sup>®</sup> is typically suitable for use without bone augmentation. It works with the available rests of the bone. 
 		</div>
     </div>
 

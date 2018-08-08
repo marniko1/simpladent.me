@@ -170,7 +170,7 @@
 	<br />
 	<p>Ovdje pokazani primjeri tretmana daju samo jedan grub pregled nekih principijelnih mogućnosti koje metoda pruža. Ali ne u svim kliničkim slučajevima mogu ovdje prikazani rezulatati na 
 	taj način biti postignuti. Molim, uzmite u obzir, da optički izgled novih zuba takodje stvara  preko volumena mekog tkiva ( tj. kostiju i sluzokoža). 
-	Implantati ne zamjenjuju strukturu kosti niti strukturu mekog tkiva. Implantati pružaju stabilne tačke učvršćenja za mostove i krune.  Sa naše strane primenjivi implantati tipa Strategic implantati<sup>®</sup> 
+	Implantati ne zamjenjuju strukturu kosti niti strukturu mekog tkiva. Implantati pružaju stabilne tačke učvršćenja za mostove i krune.  Sa naše strane primenjivi implantati tipa Strategic Implant<sup>®</sup> 
 	su kod skoro svih koštanih okolnosti bez postupka koštane augumenatcije ili dodatnih operacija primenljivi..  Oni će biti takođe  u vrlo malim  ostacima kostiju sigurno učvršćeni.</p>
 </div>  			
 			

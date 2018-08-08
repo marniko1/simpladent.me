@@ -9,7 +9,7 @@
     <div class="main_block">
         <h1>Sofortimplantologie heute:</h1>
         <div class="article">
-            <h2>Was ist ein“Strategic Implant”?</h2>
+            <h2>Was ist ein “Strategic Implant<sup>®</sup>”?</h2>
             <p>Der Begriff "Stratgic Implant" ist heute ein geschütztes Warenzeichen für die Implantate der Simpladent GmbH, der Begriff "basale Implantologie" wurde ca. im Jahre 1999 erstmals verwendet. Zu dieser Zeit begann einer der größten Durchbrüche in der dentalen Implantologie: Die Technologie der Sofortbelastung wurde entwickelt. Mit Hilfe des Strategic Implant<sup>®</sup> wurde sowohl das Problem des reduzierten Knochenangebots gelöst, zudem können heute auch Diabetiker und andere Patienten mit Begleiterkrankungen behandelt werden.</p>
             <p>Jedes Implantat wird mindestens an zwei Orten im Kortikalknochen verankert. Dieser Knochen weist hohe Stabilität auf, er vermag sofort die Kaulast aufzunehmen und er resorbiert im Laufe des Lebens praktisch nicht. Knochenaufbau, Sinuslift, Wartezeiten und Knochentransplantate sind heute daher nicht mehr nötig.</p>
             <p>Daher können wir heute, mit der Technologie der strategischen Implantologie, auch bei starkem Knochenrückgang erfolgreich behandeln und den Patienten in wenigen Tagen ein zufriedenes Lächeln zurück geben.</p>
@@ -513,7 +513,7 @@
 		<hr>
 		<br />
 		<div style="font-size:12px;">
-		Die hier gezeigten Behandlungsbeispiele geben ur eine grobe Übersicht über die prinzipiellen Möglichkeiten der Behandlung. Nicht in allen klinischen Fällen können die hier gezeigten Ergebnisse so erzielt werden. Bitte beachten Sie, dass das optische Erscheinungsbild der neuen Zähne auch vom Volumen der Weichteile (d.h. des Knochens und der Mundschleimhaut) geprägt werden. Die Implantate ersetzen per se die Knochen- und Weichteilstrukturen nicht. Implantate schaffen stabile Verankerungspunkte für Brücken und Kronen. Die von uns verwendeten Implantate vom Typ Strategic Implant® sind bei fast allen Knochenverhältnissen ohne Knochenaufbau oder Zusatzoperationen einsetzbar. Sie werden auch in sehr kleinen Knochenresten sicher verankert
+		Die hier gezeigten Behandlungsbeispiele geben ur eine grobe Übersicht über die prinzipiellen Möglichkeiten der Behandlung. Nicht in allen klinischen Fällen können die hier gezeigten Ergebnisse so erzielt werden. Bitte beachten Sie, dass das optische Erscheinungsbild der neuen Zähne auch vom Volumen der Weichteile (d.h. des Knochens und der Mundschleimhaut) geprägt werden. Die Implantate ersetzen per se die Knochen- und Weichteilstrukturen nicht. Implantate schaffen stabile Verankerungspunkte für Brücken und Kronen. Die von uns verwendeten Implantate vom Typ Strategic Implant<sup>®</sup> sind bei fast allen Knochenverhältnissen ohne Knochenaufbau oder Zusatzoperationen einsetzbar. Sie werden auch in sehr kleinen Knochenresten sicher verankert
 		</div>		
     </div>
 

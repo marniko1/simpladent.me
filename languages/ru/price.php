@@ -34,7 +34,7 @@
 	<br />
 	<img style="width:312px;" src="img/price/Fig.1.jpg" alt="" />Необходимо было удалить центральный резец из-за выраженного разрушения корня и апикальной инфекции. <br />
 	<br />
-	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />Зуб был замещен на BCS Strategic Implant&reg; сразу же после удаления. <br />
+	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />Зуб был замещен на BCS Strategic Implant<sup>®</sup> сразу же после удаления. <br />
 	<br />
 	<img style="width:312px;" src="img/price/IMG_1921.jpg" alt="" />На 3 месяца была поставлена временная коронка. <br />
 	<br />
