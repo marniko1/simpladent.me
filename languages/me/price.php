@@ -33,7 +33,7 @@
                                         <div class="text">
 
 <div class="example">
-<div class="header">Primjer za tretmana:</div>
+<div class="header">Primjer tretmana:</div>
 <div class="desc">
 	<br />
 	<img style="width:100%;" src="img/price/Fig.1.jpg" alt="" />Jedan prednji zub u gornjoj vilici morao je biti izvađen zbog propadanja korijena zuba i jedne infekcije <br />
@@ -66,7 +66,7 @@
                                         <div class="text">
 
 <div class="example">
-<div class="header">Primjer za tretmana:</div>
+<div class="header">Primjer tretmana:</div>
 <div class="desc">
 	<br />
 	<img style="width:100%;" src="img/price/IMG_0822.jpg" alt="" />U gornjoj vilici  nedostaju pet frontalnih korijena zuba. Oni se zamjenjuju  sa četiri implantata.<br />
@@ -100,7 +100,7 @@
                                         <div class="text">
 
 <div class="example">
-<div class="header">Primjer za tretmana:</div>
+<div class="header">Primjer tretmana:</div>
 <div class="desc">
 	<br />
 	<img style="width:100%;" src="img/price/IMG_7847.jpg" alt="" />Preostali zubi u donjoj vilici su teško ostećeni i reduciran je jako volumen kostiju. Nemoguće je tretirati (zbrinut) ovaj slučaj konvencionalnim implantatima.<br />
