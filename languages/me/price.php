@@ -36,13 +36,13 @@
 <div class="header">Primjer za tretmana:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/Fig.1.jpg" alt="" />Jedan prednji zub u gornjoj vilici morao je biti izvađen zbog propadanja korijena zuba i jedne infekcije <br />
+	<img style="width:100%;" src="img/price/Fig.1.jpg" alt="" />Jedan prednji zub u gornjoj vilici morao je biti izvađen zbog propadanja korijena zuba i jedne infekcije <br />
 	<br />
-	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />Zub je odmah posredstvom BECES Strategic Implant<sup>®</sup>  odmah nakon ekstrakcije zamjenjen. <br />
+	<img style="width:100%;" src="img/price/Fig.2.jpg" alt="" />Zub je odmah posredstvom BECES Strategic Implant<sup>®</sup>  odmah nakon ekstrakcije zamjenjen. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_1921.jpg" alt="" />Za period od 3 mjeseca ugradjen je jedan provizorni zub. <br />
+	<img style="width:100%;" src="img/price/IMG_1921.jpg" alt="" />Za period od 3 mjeseca ugradjen je jedan provizorni zub. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_2276.jpg" alt="" />Finalna restauracija napravljena je od cirkonija-keramike.  <br />
+	<img style="width:100%;" src="img/price/IMG_2276.jpg" alt="" />Finalna restauracija napravljena je od cirkonija-keramike.  <br />
 </div>
 </div>
 </div>    
@@ -69,9 +69,9 @@
 <div class="header">Primjer za tretmana:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_0822.jpg" alt="" />U gornjoj vilici  nedostaju pet frontalnih korijena zuba. Oni se zamjenjuju  sa četiri implantata.<br />
+	<img style="width:100%;" src="img/price/IMG_0822.jpg" alt="" />U gornjoj vilici  nedostaju pet frontalnih korijena zuba. Oni se zamjenjuju  sa četiri implantata.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_1053.jpg" alt="" />Pripojeni most ne zamjenjuje samo zube, on podupire optimalnu i gornju usnu i daje donjem dijelu lica više volumena.<br />
+	<img style="width:100%;" src="img/price/IMG_1053.jpg" alt="" />Pripojeni most ne zamjenjuje samo zube, on podupire optimalnu i gornju usnu i daje donjem dijelu lica više volumena.<br />
 </div>
 </div>
 </div>                                        <!--
@@ -103,9 +103,9 @@
 <div class="header">Primjer za tretmana:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7847.jpg" alt="" />Preostali zubi u donjoj vilici su teško ostećeni i reduciran je jako volumen kostiju. Nemoguće je tretirati (zbrinut) ovaj slučaj konvencionalnim implantatima.<br />
+	<img style="width:100%;" src="img/price/IMG_7847.jpg" alt="" />Preostali zubi u donjoj vilici su teško ostećeni i reduciran je jako volumen kostiju. Nemoguće je tretirati (zbrinut) ovaj slučaj konvencionalnim implantatima.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_0262.jpg" alt="" />Već nakon nekoliko dana  donja vilica je rpotpuno zbrinuta (rekonstruirana). Nije došlo niti do oteklina niti do značajnih bolova. Ovaj tretman može takodje isto tako i u gornjoj vilici sprovesti.<br />
+	<img style="width:100%;" src="img/price/IMG_0262.jpg" alt="" />Već nakon nekoliko dana  donja vilica je rpotpuno zbrinuta (rekonstruirana). Nije došlo niti do oteklina niti do značajnih bolova. Ovaj tretman može takodje isto tako i u gornjoj vilici sprovesti.<br />
 </div>
 </div>
 </div>                                        <!--
@@ -137,9 +137,9 @@
 <div class="header">Primjer za tretman:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7723.JPG" alt="" />Iako stvarno postoji jedno beznadežna stanje vilice, može se neposredno nakon vađenja zuba, implantirati. <br />
+	<img style="width:100%;" src="img/price/IMG_7723.JPG" alt="" />Iako stvarno postoji jedno beznadežna stanje vilice, može se neposredno nakon vađenja zuba, implantirati. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7831.JPG" alt="" />Tri dana kasnije se ugradjuju novi, učvršćeni zubi (mostovi) u gornjoj i donjoj vilici.<br />
+	<img style="width:100%;" src="img/price/IMG_7831.JPG" alt="" />Tri dana kasnije se ugradjuju novi, učvršćeni zubi (mostovi) u gornjoj i donjoj vilici.<br />
 </div>
 </div>
 </div> 

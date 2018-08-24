@@ -37,13 +37,13 @@
 <div class="header">Behandlungsbeispiel:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/Fig.1.jpg" alt="" />Ein oberer Frontzahn musste aufgrund der Zerstörung der Wurzel und einer Infektion entfernt werden. <br />
+	<img style="width:100%;" src="img/price/Fig.1.jpg" alt="" />Ein oberer Frontzahn musste aufgrund der Zerstörung der Wurzel und einer Infektion entfernt werden. <br />
 	<br />
-	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />Der Zahn wurde durch ein BECES Strategic Implant<sup>®</sup> sofort nach der Extraktion ersetzt. <br />
+	<img style="width:100%;" src="img/price/Fig.2.jpg" alt="" />Der Zahn wurde durch ein BECES Strategic Implant<sup>®</sup> sofort nach der Extraktion ersetzt. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_1921.jpg" alt="" />Für drei Monate wurde ein provisorischer Zahn eingesetzt. <br />
+	<img style="width:100%;" src="img/price/IMG_1921.jpg" alt="" />Für drei Monate wurde ein provisorischer Zahn eingesetzt. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_2276.jpg" alt="" />Die endgültige Versorgung wurde in Zirkon-Keramik realisiert. <br />
+	<img style="width:100%;" src="img/price/IMG_2276.jpg" alt="" />Die endgültige Versorgung wurde in Zirkon-Keramik realisiert. <br />
 </div>
 </div>
 </div>    
@@ -70,9 +70,9 @@
 <div class="header">Behandlungsbeispiel:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_0822.jpg" alt="" />Im Oberkiefer fehlen fünf Frontzahnwurzeln. Sie werden durch vier Implantate ersetzt. <br />
+	<img style="width:100%;" src="img/price/IMG_0822.jpg" alt="" />Im Oberkiefer fehlen fünf Frontzahnwurzeln. Sie werden durch vier Implantate ersetzt. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_1053.jpg" alt="" />Die eingegliederte Brücke ersetzt nicht nur die Zähne, die unterstützt auch die Oberlippe optimal und gibe dem unteren Gesichtsbaschnitt mehr Volumen.<br />
+	<img style="width:100%;" src="img/price/IMG_1053.jpg" alt="" />Die eingegliederte Brücke ersetzt nicht nur die Zähne, die unterstützt auch die Oberlippe optimal und gibe dem unteren Gesichtsbaschnitt mehr Volumen.<br />
 </div>
 </div>
 </div>                                        <!--
@@ -104,9 +104,9 @@
 <div class="header">Behandlungsbeispiel:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7847.jpg" alt="" />Die im Unterkiefer verbliebenen Zähne sind schwer zerstört und das Knochenvolument ist stark reduziert. Dieser Fall kann mit herkömmlichen Implantaten nicht versorgt werden.<br />
+	<img style="width:100%;" src="img/price/IMG_7847.jpg" alt="" />Die im Unterkiefer verbliebenen Zähne sind schwer zerstört und das Knochenvolument ist stark reduziert. Dieser Fall kann mit herkömmlichen Implantaten nicht versorgt werden.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_0262.jpg" alt="" />Schon nach wenigen Tagen ist der Unterkiefer fertig versorgt. Es kam weder zu Schwellungen noch zu nennenswerten Schmerzen. Diese Bahndlung kann genau so auch im Oberkiefer durchgeführt werden.<br />
+	<img style="width:100%;" src="img/price/IMG_0262.jpg" alt="" />Schon nach wenigen Tagen ist der Unterkiefer fertig versorgt. Es kam weder zu Schwellungen noch zu nennenswerten Schmerzen. Diese Bahndlung kann genau so auch im Oberkiefer durchgeführt werden.<br />
 </div>
 </div>
 </div>                                        <!--
@@ -138,9 +138,9 @@
 <div class="header">Behandlungsbeispiel:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7723.JPG" alt="" />Obwohl ein wirklich desolater Gebisszustand vorliegt, kann sofort nach der Zahnentfernung implantiert werden. <br />
+	<img style="width:100%;" src="img/price/IMG_7723.JPG" alt="" />Obwohl ein wirklich desolater Gebisszustand vorliegt, kann sofort nach der Zahnentfernung implantiert werden. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7831.JPG" alt="" />Nach drei Tagen werden die neuen, festsitzenden Zähne (Brücken) im Ober- und Unterkiefer eingesetzt.<br />
+	<img style="width:100%;" src="img/price/IMG_7831.JPG" alt="" />Nach drei Tagen werden die neuen, festsitzenden Zähne (Brücken) im Ober- und Unterkiefer eingesetzt.<br />
 </div>
 </div>
 </div> 

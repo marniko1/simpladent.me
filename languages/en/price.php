@@ -36,13 +36,13 @@
 <div class="header">Treatment Example:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/Fig.1.jpg" alt="" />One upper central had to be extracted due to a severe deterioration of the root and an untreatable apical infection. <br />
+	<img style="width:100%;" src="img/price/Fig.1.jpg" alt="" />One upper central had to be extracted due to a severe deterioration of the root and an untreatable apical infection. <br />
 	<br />
-	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />The tooth was replaced by a BCS Strategic Implant<sup>®</sup> immediately after the extraction. <br />
+	<img style="width:100%;" src="img/price/Fig.2.jpg" alt="" />The tooth was replaced by a BCS Strategic Implant<sup>®</sup> immediately after the extraction. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_1921.jpg" alt="" />For three month a fixed immediate temporary was incorporated. <br />
+	<img style="width:100%;" src="img/price/IMG_1921.jpg" alt="" />For three month a fixed immediate temporary was incorporated. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_2276.jpg" alt="" />The final restoration was done in Zirconium/ceramics. <br />
+	<img style="width:100%;" src="img/price/IMG_2276.jpg" alt="" />The final restoration was done in Zirconium/ceramics. <br />
 </div>
 </div>
 </div>		
@@ -72,9 +72,9 @@ the lost roots of the missing teeth). </p>
 <div class="header">Treatment Example:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_0822.jpg" alt="" />In the upper jaw five teeth are missing. They are replaced by four implants and a segment -bridge. <br />
+	<img style="width:100%;" src="img/price/IMG_0822.jpg" alt="" />In the upper jaw five teeth are missing. They are replaced by four implants and a segment -bridge. <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_1053.jpg" alt="" />The incorporated segment bridge replaces not only the teeth. It supports the soft tissues of the lip 
+	<img style="width:100%;" src="img/price/IMG_1053.jpg" alt="" />The incorporated segment bridge replaces not only the teeth. It supports the soft tissues of the lip 
 	and hence the lower midface receives more volume.<br />
 </div>
 </div>
@@ -107,10 +107,10 @@ the lost roots of the missing teeth). </p>
 <div class="header">Treatment Example:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7847.jpg" alt="" />The remaining teeth are heavily damaged and bone volume is reduced. It is not possible to treat this case with conventional 
+	<img style="width:100%;" src="img/price/IMG_7847.jpg" alt="" />The remaining teeth are heavily damaged and bone volume is reduced. It is not possible to treat this case with conventional 
 	dental implants.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_0262.jpg" alt="" />Already a few days later the lower jaw is restored. During this treatment neither swellings nor 
+	<img style="width:100%;" src="img/price/IMG_0262.jpg" alt="" />Already a few days later the lower jaw is restored. During this treatment neither swellings nor 
 	considerable pain occurred. Treatments for one full jaw are also possible in the upper jaw.<br />
 </div>
 </div>
@@ -143,9 +143,9 @@ the lost roots of the missing teeth). </p>
 <div class="header">Treatment Example:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7723.JPG" alt="" />Although a really bad clinical situation was found before the start of the treatment, immediately after the extractions the implants were placed.  <br />
+	<img style="width:100%;" src="img/price/IMG_7723.JPG" alt="" />Although a really bad clinical situation was found before the start of the treatment, immediately after the extractions the implants were placed.  <br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7831.JPG" alt="" />Three days later the fixed (here: semi-permanent) bridges were incorporated in the upper and lower jaw.<br />
+	<img style="width:100%;" src="img/price/IMG_7831.JPG" alt="" />Three days later the fixed (here: semi-permanent) bridges were incorporated in the upper and lower jaw.<br />
 </div>
 </div>
 </div>                                        <!--
