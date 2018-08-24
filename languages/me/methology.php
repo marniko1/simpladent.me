@@ -19,7 +19,7 @@
     <div class="note">Više od 1 000 000 implantata je ugrađeno, na tisuce zadovoljnih pacijenata iz nemjerljivog broja zemalja širom svijeta.</div>
     <div class="benefits">
         <div class="article">
-            <h2>6 Prenosti Strategic implant<sup>®</sup>:</h2>
+            <h2>6 Prednosti Strategic implant<sup>®</sup>:</h2>
             <ol>
                 <li>Pacijenti mogu biti tretirani bez izuzetka i bez obzira na stepen gubitka kosti i pitanja da li imaju još zuba ili već nose protezu.</li>
                 <li>Potrebna je samo jedna jedina hirurška intervencija. Implantati su povezani sa trajnim ili privremenim mostovima ubrzo nakon ugradnje i odmah ili ubrzo nakon ugradnje opterećeni. Ukoliko je potrebno, može jedan dodatni most da bude ugradjen nakon 6-9 mjeseci. U večini slučajeva se odmah ugradjuje konačni  most.</li>
@@ -132,9 +132,9 @@
 </div>
 
 <div class="section" id="methSection_4">
-<h1>Vergleichstabelle mit verschiedenen Implantationsmethoden</h1>
+<h1>Komparaciona tabela različitih metoda dentalne implanologije</h1>
 <div class="compare_block">
-<div class="header">Implantation</div>
+<div class="header">Implantacija</div>
 <div class="compare_table">
 <div class="t_head">
     <table>
