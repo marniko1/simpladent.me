@@ -7,7 +7,7 @@
         <!--<img src="img/metholoy/img.png" alt=""/>-->
     </div>
     <div class="main_block">
-        <h1>Immediate Loading Implantology Today</h1>
+        <h1>Implantology</h1>
         <div class="article">
             <h2>What is Strategic Implant<sup>®</sup>?</h2>
             <p>The term "Strategic Implant<sup>®</sup>" is a registered trademark for the implants of the Simpladent Group. The term "basal implantology" first appeared around 1999; a time of breakthrough in modern dental implantology: immediate loading technology was developed. It simultaneously solved the problem of low bone supply and enabled patients with diabetes and other medical issues to receive safe treatment.</p>
