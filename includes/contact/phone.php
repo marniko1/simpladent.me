@@ -17,7 +17,6 @@ if(strlen($bot))
 else
 {  
 	$name = filter_input(INPUT_POST, 'name');
-	$area_code = filter_input(INPUT_POST, 'area_code');
 	$phone = filter_input(INPUT_POST, 'phone');
 
 	// Construck Mail Header
@@ -32,13 +31,12 @@ else
 	// Check name length
 	if(strlen($name))
 	{
-		if(strlen($area_code))
-		{
+		
 			// Check Length of phone number
 			if(strlen($phone))
 			{
 				// All good, Sned Mail and positive response. Mail Sent to Regional Partner and Swiss Office.
-				mail('contact@simpladent.ch', 'Simpladent Customer ' . $_SERVER["HTTP_HOST"], "Type: Call Back \nName: $name \nArea_Code: $area_code \nPhone: $phone  \nLanguage: $language ",$header);
+				mail('contact@simpladent.ch', 'Simpladent Customer ' . $_SERVER["HTTP_HOST"], "Type: Call Back \nName: $name \nPhone: $phone  \nLanguage: $language ",$header);
 				echo $elements->appointments->getBack;			
 			}
 			else
@@ -46,12 +44,8 @@ else
 				echo "Please fill in your Phone Number";
 				header('HTTP/1.0 403 Forbidden');
 			}
-		}
-		else
-		{
-			echo "Please fill in your Area Code";
-			header('HTTP/1.0 403 Forbidden');
-		}
+		
+		
 	}
 	else
 	{
